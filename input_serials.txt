@@ -1,0 +1,7 @@
+Q2SW-GFFA-35QR #MX250 description
+Q2QF-Z7ZP-B11T #MR74 or name
+Q3PK-VJK7-Y3GE #MR76 comment or not
+Q2SX-VXFU-ASQQ #MS120-24P Ghost switch 1
+Q2SX-BUGZ-ETTY #MS120-24P Ghost switch 2
+Q2SX-VVVV-EEEE 
+
